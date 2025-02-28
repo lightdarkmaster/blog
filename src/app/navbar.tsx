@@ -8,7 +8,7 @@ export default function Navbar() {
                  <nav>
     <div className="nav-content">
       <div className="logo">
-        <a href="#">Christian</a>
+        <a href="https://github.com/lightdarkmaster">Christian</a>
       </div>
       <ul className="nav-links">
         <li><a href="#">Home</a></li>
