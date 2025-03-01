@@ -26,7 +26,7 @@ export default function Navbar() {
     <br/><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima libero consequatur necessitatibus voluptatibus vel, ut asperiores magnam velit, eum veritatis natus, dolorum sit ipsum quidem laborum! Facilis officia itaque, explicabo harum illum, repellat nihil corporis! Dolor, libero vero, consequuntur sed necessitatibus corporis. Facilis autem natus animi pariatur quaerat rerum nemo quibusdam veritatis provident error nostrum ratione dolore officiis non amet, quidem dolores eaque sint blanditiis odio porro ut, quam soluta. Necessitatibus, aperiam eum doloremque voluptate qui aliquid consequatur aspernatur debitis expedita unde vitae quia officiis, delectus, possimus ratione ex rerum dignissimos maxime molestiae asperiores. Tempora recusandae debitis exercitationem quo facere reprehenderit tenetur, dolore laboriosam repellat modi. Magnam ratione iste quo perspiciatis explicabo deserunt temporibus quaerat inventore quod accusantium atque, dolores commodi nobis distinctio, fugit illum, soluta quisquam est in omnis! Recusandae incidunt voluptatem, consequuntur doloremque! Nisi incidunt, iure quidem dolores odit sint, ut quam. Ipsum, maiores doloremque velit numquam quisquam.</p>
   </div>
   <div>
-    <button title="Click me" className="btn-test">Click me</button>
+    <button title="Click me" className="btn-test">Submit</button>
   </div>
 </div>
     );
